@@ -1,6 +1,6 @@
 ##    duc viet/member1622
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DUCVIET1622&theme=tokyonight)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Security+Researcher;CTF+Player;Bug+Bounty+Hunter" />
