@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Security+Researcher;CTF+Player;Bug+Bounty+Hunter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Tôi+cô+đơn;CTF+Player;Bug+Bounty+Hunter" />
   
 </p>
 
