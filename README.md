@@ -17,12 +17,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
 
-<p>
-  <img 
-    src="https://carbon.now.sh/?bg=rgba(28,26,28,1)&t=one-dark&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Fira+Code&fs=17.5px&lh=152%25&si=false&es=2x&wm=false&code=%2524%2520whoami%250ADUCVIET1622%250A%2524%2520cat%2520skill.txt%250A%252B%2520Pentesting%252B%2520Network%2520Security%252B%2520CTF"
-    alt="Terminal"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/DUCVIET1622/image/main/carbon.png" />
 
 ## 
 
