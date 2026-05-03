@@ -11,12 +11,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DUCVIET1622&theme=darkhub&no-frame=true&margin-w=10&column=7" />
 </p>
 ---
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DUCVIET1622&theme=dark&hide_border=true&bg_color=0D1117)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
  Xin chào 
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
 ## 
 
