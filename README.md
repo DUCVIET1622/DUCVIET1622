@@ -10,7 +10,7 @@
 
  Xin chào 
 
-![Profile Views](https://komarev.com/ghpvc/?DUCVIET1622=DUCVIET1622&color=00ff88)
+
 
 ## 
 
@@ -48,13 +48,6 @@ Tôi chỉ là vô danh!
 
  Sớm ra mắt các dự án về pentest automation & CTF writeups.
 ---
-
-###  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?DUCVIET1622=DUCVIET1622&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DUCVIET1622=DUCVIET1622&layout=compact&theme=dark&hide_border=true)
-
 
 
 ---
