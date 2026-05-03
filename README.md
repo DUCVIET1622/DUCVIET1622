@@ -1,4 +1,4 @@
-##   tôi là duc viet!
+##   tôi là duc viet! 
 
 
 
@@ -10,7 +10,7 @@
 
  Xin chào 
 
-![Profile Views](https://komarev.com/ghpvc/?DUCVIET1622=DUCVIET1622&color=00ff88&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?DUCVIET1622=DUCVIET1622&color=00ff88)
 
 ## 
 
