@@ -17,7 +17,9 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DUCVIET1622&theme=dark&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://carbon.now.sh/?bg=rgba%280%2C0%2C0%2C0%29&t=one-dark&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Fira+Code&fs=17.5px&lh=152%25&si=false&es=2x&wm=false&code=%2524%2520whoami%250ADUCVIET1622%250A%2524%2520cat%2520skill.txt%250A%252B%2520Web%2520Pentesting%250A%252B%2520Network%2520Security%250A%252B%2520CTF%250A%2524%2520" alt="Terminal" />
+</p>
 
 ## 
 
