@@ -4,9 +4,15 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Security+Researcher;CTF+Player;Bug+Bounty+Hunter" />
+  
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DUCVIET1622&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+</p>
 ---
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DUCVIET1622&theme=dark&hide_border=true&bg_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
  Xin chào 
 
