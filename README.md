@@ -64,7 +64,7 @@ Tôi chỉ là vô danh!
 
 *Đang phát triển...* 
 
- Sớm ra mắt các dự án về pentest automation & CTF writeups. ( tôi kco thời gian :))  )
+ Sớm ra mắt các dự án về pentest automation & CTF writeups.  / tôi kco thời gian :)
 ---
 
 
