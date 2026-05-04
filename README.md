@@ -69,4 +69,6 @@ Tôi chỉ là vô danh!
 
 ---
 
-![Code](https://github.com/DUCVIET1622/example/blob/main/image2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DUCVIET1622/image2/main/image2.png" width="400">
+</p>
