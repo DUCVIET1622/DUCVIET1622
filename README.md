@@ -69,6 +69,4 @@ Tôi chỉ là vô danh!
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?DUCVIET1622=DUCVIET1622&label=Profile+Views&color=00ff88&style=flat" />
-</p>
+![Code](https://github.com/DUCVIET1622/example/blob/main/image2.png)
