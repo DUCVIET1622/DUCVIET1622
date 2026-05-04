@@ -70,5 +70,5 @@ Tôi chỉ là vô danh!
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DUCVIET1622/image2/main/image2.png" width="400">
+  <img src="https://raw.githubusercontent.com/DUCVIET1622/image2/main/image2.png" width="600">
 </p>
