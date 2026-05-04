@@ -6,12 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Eth1cal+H@cker+(j4f);Tôi+cô+đơn;sao+không+lướt+tiếp+đi;vẫn+còn+đợi+điều+gì+?" />
   
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DUCVIET1622&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-</p>
----
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
+
+
+
  Xin chào 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
