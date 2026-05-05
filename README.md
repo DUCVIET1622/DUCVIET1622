@@ -61,7 +61,17 @@ Tôi chỉ là vô danh!
 
 ###  Dự án
 
-*Đang phát triển...* 
+## 📂 Dự án mới
+
+### 🔍 [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
+
+<a href="https://github.com/DUCVIET1622/portscanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DUCVIET1622&repo=PyScan&theme=dark&border_color=00FF88&bg_color=0D1117" />
+</a>
+
+<br>
+
+Công cụ quét cổng TCP viết bằng Python thuần — dành cho học tập ethical hacking.
 
  Sớm ra mắt các dự án về pentest automation & CTF writeups.  / tôi kco thời gian :)
 ---
