@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Learner-00FF88?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/HackTheBox-Newbie-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rank-Beginner_Hacker-00AAFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Level-12-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XP-420-FF0040?style=for-the-badge" />
 </p>
