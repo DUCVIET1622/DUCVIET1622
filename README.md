@@ -61,7 +61,7 @@ Tôi chỉ là vô danh!
 
 
 
-## 📂 Dự án do tôi rảnh nên làm:
+## 📂 Dự án do tôi làm: 
 
 ### 🔍 [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
 
