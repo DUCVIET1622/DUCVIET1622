@@ -61,7 +61,7 @@ Tôi chỉ là vô danh!
 
 
 
-## 📂 Dự án do tôi làm: 
+## 📂 OWNER:
 
 ### 🔍 [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
 ### 🔍 [DISBUSTER](https://github.com/DUCVIET1622/disbuster)
