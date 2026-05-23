@@ -48,15 +48,8 @@
 Tôi chỉ là vô danh!
 
 
-| Lĩnh vực | Công nghệ / Công cụ |
-|----------|---------------------|
-| **Pentest** | Kali Linux, Metasploit, Burp Suite, Nmap |
-| **Web Security** | SQLi, XSS, SSRF, OWASP Top 10 |
-| **Network** | TCP/IP, Wireshark, BloodHound, Impacket |
-| **Scripting** | Python, Bash, PowerShell |
-| **OS** | Linux (Arch, Kali, Ubuntu), Windows |
 
----
+
 
 
 
@@ -71,11 +64,11 @@ Tôi chỉ là vô danh!
 
 
 
- Sớm ra mắt thêm các dự án về pentest automation & CTF writeups.  / tôi kco thời gian :)
----
 
 
----dù sao thì
+
+
+
 
 ###  Liên hệ
 
