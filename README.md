@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Eth1cal+H@cker+(j4f);Tôi+cô+đơn;sao+không+lướt+tiếp+đi;vẫn+còn+đợi+điều+gì+?" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Eth1cal+H@cker+(j4f);Try+To+Do+Better;D0nt+G1ve+Up;T@k3+Th3m+d0wN+vr0h;H@6k+a11+th3+Th1ng;k1ll+Th3m" />
   
 </p>
 
