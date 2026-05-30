@@ -56,9 +56,9 @@ Tôi chỉ là vô danh!
 
 ## 📂 OWNER:
 
-### 🔍 [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
-### 🔍 [DISBUSTER](https://github.com/DUCVIET1622/disbuster)
-
+###  [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
+###  [DISBUSTER](https://github.com/DUCVIET1622/disbuster)
+###   [XSS-HUNT3R](https://github.com/DUCVIET1622/node-xss-hunter)
 
 <br>
 
