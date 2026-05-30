@@ -11,20 +11,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Learner-00FF88?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackTheBox-Newbie-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/Level-12-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XP-420-FF0040?style=for-the-badge" />
 </p>
 
 
 
- Xin chào 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DUCVIET1622&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DUCVIET1622&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-</p>
 
 
 <img src="https://raw.githubusercontent.com/DUCVIET1622/image/main/carbon.png" />
@@ -45,7 +38,6 @@
 ---
 
 <p align="center">
-Tôi chỉ là vô danh!
 
 
 
