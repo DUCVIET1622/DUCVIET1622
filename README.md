@@ -54,7 +54,7 @@ Tôi chỉ là vô danh!
 
 
 
-## 📂 OWNER:
+## 📂 Chủ Sở Hữu ( OWNER ):
 
 ###  [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
 ###  [DISBUSTER](https://github.com/DUCVIET1622/disbuster)
