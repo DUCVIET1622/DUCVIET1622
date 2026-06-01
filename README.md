@@ -20,7 +20,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/DUCVIET1622/image/main/carbon.png" />
+
 
 ## 
 
@@ -69,7 +69,3 @@
 - tiktok: https://www.tiktok.com/@member1622
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DUCVIET1622/image2/main/image2.png" width="600">
-</p>
