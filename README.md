@@ -48,6 +48,7 @@
 
 ## 📂 Chủ Sở Hữu ( OWNER ):
 ###   [XSS-HUNT3R](https://github.com/DUCVIET1622/node-xss-hunter)
+### [Pentool](https://github.com/DUCVIET1622/pentool.git)
 ###  [TCP Port Scanner](https://github.com/DUCVIET1622/portscanner)
 ###  [DISBUSTER](https://github.com/DUCVIET1622/disbuster)
 
