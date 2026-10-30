@@ -68,5 +68,5 @@
 - 📧 Email: Thaiducviet1212@gmail.com
 - Instagram: https://www.instagram.com/ducviet221o/
 - tiktok: https://www.tiktok.com/@member1622
-
+- telegram: https://t.me/member1622
 ---
